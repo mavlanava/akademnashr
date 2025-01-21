@@ -1,0 +1,17 @@
+.site-header {
+    background-color: #fff;
+}
+.sitenav-list{
+    list-style: none;
+}
+
+.sitenav-link {
+    color: #000;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
